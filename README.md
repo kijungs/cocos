@@ -12,7 +12,7 @@ Datasets
 ========================
 The download links for the datasets used in the paper are [here](http://dmlab.kaist.ac.kr/cocos/)
 
-Building and Running WRS
+Building and Running CoCoS
 ========================
 Please see [User Guide](user_guide.pdf)
 
