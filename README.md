@@ -31,8 +31,8 @@ If you use this code as part of any published research, please acknowledge the f
   volume    = {15},
   number    = {3},
   pages     = {38:1--38:30},
-  url       = {https://doi.org/10.1145/3441487},
-  doi       = {10.1145/3441487},
   year      = {2021},
+  url       = {https://doi.org/10.1145/3441487},
+  doi       = {10.1145/3441487}
 }
 ```
