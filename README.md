@@ -28,6 +28,11 @@ If you use this code as part of any published research, please acknowledge the f
   title     = {CoCoS: Fast and Accurate Distributed Triangle Counting in Graph Streams},
   author    = {Kijung Shin and Euiwoong Lee and Jinoh Oh and Mohammad Hammoud and Christos Faloutsos},
   journal   = {ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  volume    = {15},
+  number    = {3},
+  pages     = {38:1--38:30},
+  url       = {https://doi.org/10.1145/3441487},
+  doi       = {10.1145/3441487},
   year      = {2021},
 }
 ```
